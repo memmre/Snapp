@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70806711496",
+    "project_id": "snapp-92833",
+    "storage_bucket": "snapp-92833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70806711496:android:c14374d4b2378eef4409fd",
+        "android_client_info": {
+          "package_name": "com.memmre.snapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjtft4Ru4Ce1_ip07ktAxG_L3mrKyXus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
